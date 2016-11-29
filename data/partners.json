@@ -6,11 +6,6 @@
                 "name": "Google",
                 "url": "https://www.google.com.ua/intl/en/about/",
                 "logoUrl": "../images/logos/google.svg"
-            },
-            {
-                "name": "GDG[x]",
-                "url": "https://github.com/gdg-x",
-                "logoUrl": "../images/logos/gdg-x.svg"
             }
         ]
     },
@@ -18,9 +13,9 @@
         "title": "Gold Sponsor",
         "logos": [
             {
-                "name": "Google",
-                "url": "https://www.google.com.ua/intl/en/about/",
-                "logoUrl": "../images/logos/google.svg"
+                "name": "JotForm",
+                "url": "https://www.jotform.com/",
+                "logoUrl": "../images/logos/JotForm.png"
             },
             {
                 "name": "GDG[x]",
@@ -33,14 +28,9 @@
       "title": "Silver Sponsor",
       "logos": [
         {
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/",
-          "logoUrl": "../images/logos/google.svg"
-        },
-        {
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x",
-          "logoUrl": "../images/logos/gdg-x.svg"
+          "name": "BordoBT",
+          "url": "https://www.bordobt.com",
+          "logoUrl": "../images/logos/bordo.png"
         }
       ]
   },
@@ -48,14 +38,9 @@
     "title": "Bronze Sponsor",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name": "Unicrow",
+        "url": "https://www.unicrow.com",
+        "logoUrl": "../images/logos/unicrow.png"
       }
     ]
   }

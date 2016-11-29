@@ -38,132 +38,150 @@
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Furkan İnciroğlu",
-        "title": "Android Evangelist & Developer",
-        "company": "Gett",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Tel Aviv, Israel",
-        "photoUrl": "/images/people/yonatan_levin.jpg",
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "name": "Atıf Ceylan",
+        "title": "Cloud & Storage Operations Manager",
+        "company": "NGX Storage",
+        "companyLogo": "/images/logos/ngx.jpg",
+        "country": "Ankara, Türkiye",
+        "photoUrl": "/images/people/atif_ceylan.jpg",
+        "shortBio": "...",
+        "bio": ".",
         "tags": [
-            "Android",
-            "Doze",
-            "Mobile UX",
-            "Entrepreneurship"
+            "System Administrator",
+            "Cloud"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
-            }
+
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/levin.yonatan"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/halidaltuner/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/parahall"
+                "link": "https://twitter.com/halidaltuner/"
             },
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+YonatanLevin"
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/halid/"
             }
         ]
     },
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Bilal Çorbacıoğlu",
-        "title": "Senior Developer Evangelist Connected Home",
-        "company": "Duetsche Telekom AG - Group Innovation+",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Munich and Dusseldorf, Germany",
-        "photoUrl": "/images/people/sascha_wolter.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "name": "Fatih Karatana",
+        "title": "Cloud & Storage Operations Manager",
+        "company": "NGX Storage",
+        "companyLogo": "/images/logos/ngx.jpg",
+        "country": "Ankara, Türkiye",
+        "photoUrl": "/images/people/fatih_karatana.jpg",
+        "shortBio": "...",
+        "bio": ".",
         "tags": [
-            "Web",
-            "IoT",
-            "Smart Home"
+            "System Administrator",
+            "Cloud"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.wolter.biz"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/halidaltuner/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
+                "link": "https://twitter.com/halidaltuner/"
             },
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/halid/"
             }
         ]
     },
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Rustem Arzymbetov",
-        "title": "Software Engineer",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Mountain View, United States",
-        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "name": "Abdullah Dağlı",
+        "title": "Full Stack Developer",
+        "company": "Bordo Bilgi Teknolojileri",
+        "companyLogo": "/images/logos/bordo.png",
+        "country": "Trabzon, Türkiye",
+        "photoUrl": "/images/people/abdullah_dagli.jpg",
+        "shortBio": "...",
+        "bio": ".",
         "tags": [
-            "Cloud",
-            "Performance",
-            "TensorFlow"
+            "Firebase",
+            "Full Stack",
+            "Web"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://tr.linkedin.com/in/abdullahdagli/tr"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/abdagli"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/abdagli"
             }
         ]
     },
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Adrian Kajda",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Opole, Poland",
-        "photoUrl": "/images/people/adrian_kajda.jpg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "name": "Mustafa Akseli",
+        "title": "Software Architect",
+        "company": "Akakçe",
+        "companyLogo": "/images/logos/akakce.png",
+        "country": "Ankara, Türkiye",
+        "photoUrl": "/images/people/mustafa_akseli.jpg",
+        "shortBio": "...",
+        "bio": ".",
         "tags": [
-            "Android",
-            "Entrepreneurship"
+            "Full Stack",
+            "Web"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://tr.linkedin.com/in/mustafaakseli/tr"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/makseli"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/makseli"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://mustafaakseli.com"
             }
         ]
     },
