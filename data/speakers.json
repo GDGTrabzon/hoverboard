@@ -32,6 +32,11 @@
                 "icon": "github",
                 "name": "GitHub",
                 "link": "https://github.com/halid/"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://halid.org"
             }
         ]
     },
@@ -39,9 +44,9 @@
         "id": 2,
         "featured": true,
         "name": "Atıf Ceylan",
-        "title": "Cloud & Storage Operations Manager",
-        "company": "NGX Storage",
-        "companyLogo": "/images/logos/ngx.jpg",
+        "title": "VP & CTO",
+        "company": "Bulut Yazılım",
+        "companyLogo": "/images/logos/bulutyazilim.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/atif_ceylan.jpg",
         "shortBio": "...",
@@ -57,17 +62,22 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/halidaltuner/"
+                "link": "https://tr.linkedin.com/in/atifceylan/tr"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/halidaltuner/"
+                "link": "https://twitter.com/atifceylan"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/halid/"
+                "link": "https://github.com/atifceylan"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://atifceylan.com"
             }
         ]
     },
@@ -76,8 +86,8 @@
         "featured": true,
         "name": "Fatih Karatana",
         "title": "Cloud & Storage Operations Manager",
-        "company": "NGX Storage",
-        "companyLogo": "/images/logos/ngx.jpg",
+        "company": "Labris Network",
+        "companyLogo": "/images/logos/labris.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/fatih_karatana.jpg",
         "shortBio": "...",
@@ -93,17 +103,22 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/halidaltuner/"
+                "link": "https://tr.linkedin.com/in/fatihkaratana"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/halidaltuner/"
+                "link": "https://twitter.com/fatihzkaratana"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/halid/"
+                "link": "https://github.com/fatihzkaratana"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://fatih.karatana.com"
             }
         ]
     },
