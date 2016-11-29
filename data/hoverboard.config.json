@@ -106,27 +106,8 @@
           "url": "/team/"
         },
         {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
           "text": "google-developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
@@ -138,11 +119,6 @@
           "text": "partnership-proposition",
           "url": "http://bit.ly/df16-sponsor",
           "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
         }
       ]
     }
@@ -150,21 +126,20 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "info@gdgtrabzon.com",
+        "url": "mailto:info@gdgtrabzon.com"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "http://dftrb16.eventbrite.com",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
+        "name": "conference-ticket",
+        "price": 0,
+        "currency": "₺",
+        "starts": "conference-ticket-starts",
+        "ends": "conference-ticket-ends",
         "soldOut": false
       },
       {
@@ -182,7 +157,7 @@
         "currency": "₴",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },

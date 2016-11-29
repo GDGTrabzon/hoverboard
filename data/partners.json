@@ -1,17 +1,51 @@
 [
-  {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
+    {
+        "title": "Festival Sponsor",
+        "logos": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com.ua/intl/en/about/",
+                "logoUrl": "../images/logos/google.svg"
+            },
+            {
+                "name": "GDG[x]",
+                "url": "https://github.com/gdg-x",
+                "logoUrl": "../images/logos/gdg-x.svg"
+            }
+        ]
+    },
+    {
+        "title": "Gold Sponsor",
+        "logos": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com.ua/intl/en/about/",
+                "logoUrl": "../images/logos/google.svg"
+            },
+            {
+                "name": "GDG[x]",
+                "url": "https://github.com/gdg-x",
+                "logoUrl": "../images/logos/gdg-x.svg"
+            }
+        ]
+    },
+    {
+      "title": "Silver Sponsor",
+      "logos": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/",
+          "logoUrl": "../images/logos/google.svg"
+        },
+        {
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x",
+          "logoUrl": "../images/logos/gdg-x.svg"
+        }
+      ]
   },
   {
-    "title": "general-partner",
+    "title": "Bronze Sponsor",
     "logos": [
       {
         "name": "Google",
@@ -22,52 +56,8 @@
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
       }
     ]
   }
+
 ]
