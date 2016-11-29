@@ -2,7 +2,7 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Mete Atamel",
+        "name": "Halid Altuner",
         "title": "Developer Advocate",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -39,7 +39,7 @@
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Yonatan Levin",
+        "name": "Furkan İnciroğlu",
         "title": "Android Evangelist & Developer",
         "company": "Gett",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -81,7 +81,7 @@
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Sascha Wolter",
+        "name": "Bilal Çorbacıoğlu",
         "title": "Senior Developer Evangelist Connected Home",
         "company": "Duetsche Telekom AG - Group Innovation+",
         "companyLogo": "/images/logos/gdg-lviv.svg",
