@@ -18,9 +18,9 @@
                 "logoUrl": "../images/logos/jotform.png"
             },
             {
-                "name": "GDG[x]",
-                "url": "https://github.com/gdg-x",
-                "logoUrl": "../images/logos/gdg-x.svg"
+                "name": "Mavi Alp",
+                "url": "",
+                "logoUrl": "../images/logos/mavialp.png"
             }
         ]
     },
@@ -39,7 +39,7 @@
     "logos": [
       {
         "name": "Unicrow",
-        "url": "https://www.unicrow.com",
+        "url": "http://www.unicrow.com",
         "logoUrl": "../images/logos/unicrow.png"
       }
     ]
