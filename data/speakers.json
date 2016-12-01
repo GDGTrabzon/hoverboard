@@ -8,8 +8,8 @@
         "companyLogo": "/images/logos/ngx.jpg",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/halid_altuner.jpg",
-        "shortBio": "...",
-        "bio": ".",
+        "shortBio": "8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım ...",
+        "bio": "8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım. Genel olarak açık kaynak kodlu ve özgür yazılım projeleriyle ilgileniyorum. Bulut Hesaplama, Sanallaştırma, Dağıtık Dosya Sistemleri, Yazılım Tanımlı Ağ ve Depolama, Yük Dengeleme, Yüksek Trafik Alan Sistemler, Veritabanları üzerine aktif olarak çalışmaktayım. Kamu'da bir çok büyük projede Linux Sistem Yöneticiliği ve Takım Liderliği yaptım. Şu an Türkiye'nin ilk ve tek yerli veri depolama sistemleri üreticisi NGX Storage firmasında 'Bulut ve Depolama Operasyonları Yöneticisi' olarak devam etmekteyim.",
         "tags": [
             "System Administrator",
             "Cloud"
@@ -49,11 +49,11 @@
         "companyLogo": "/images/logos/bulutyazilim.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/atif_ceylan.jpg",
-        "shortBio": "...",
-        "bio": ".",
+        "shortBio": "Başta Linux olmak üzere özgür yazılım dünyasına gönül vermiş biriyim. Kısa bir süre kamuda çalışsam da uzun yıllardan beri hep işimin ...",
+        "bio": "Başta Linux olmak üzere özgür yazılım dünyasına gönül vermiş biriyim. Kısa bir süre kamuda çalışsam da uzun yıllardan beri hep işimin işçisi oldum. Son 13 yıldır SaaS yazılımlar ve bulut platformlar üzerine çalışıyorum. Ölçeklenebilirlik, performans ve yüksek sayıda anlık erişim gerektiren uygulamalar ve sistemler geliştirmek ilgi alanlarım. Linux, BSD, PHP, PostgreSQL Nginx/Apache sıklıkla kullandığım platformlardır. Ortağı olduğum şirketlerden Yurdum Yazılım SaaS üzerine, Bulut Yazılım A.Ş ise hem SaaS hem de bulut teknolojileri üzerine faaliyet göstermektedir. Github'da OJS.io başta olmak üzere birçok özgür yazılım projemiz bulunmaktadır. Etkinliklere katılarak az çok tecrübe ettiğim şeyleri paylaşmaktan mutluluk duyuyorum. Özellikle üniversite gençliğini anti-özgür yazılım bataklığından kurtarmak için gayret ediyorum :)",
         "tags": [
             "System Administrator",
-            "Cloud"
+            "System Architecture"
         ],
         "badges": [
 
@@ -90,11 +90,10 @@
         "companyLogo": "/images/logos/labris.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/fatih_karatana.jpg",
-        "shortBio": "...",
-        "bio": ".",
+        "shortBio": " ...",
+        "bio": "",
         "tags": [
-            "System Administrator",
-            "Cloud"
+            "Full Stack"
         ],
         "badges": [
 
@@ -168,11 +167,10 @@
         "companyLogo": "/images/logos/akakce.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/mustafa_akseli.jpg",
-        "shortBio": "...",
-        "bio": ".",
+        "shortBio": "Şuan Akakce.com IT ekibindeyim. 7 senelik yazılım sektörü geçmişim var ve 2 yıl tek kart pc ( Raspberry Pi ) cihazlar ile ...",
+        "bio": "Şuan Akakce.com IT ekibindeyim. 7 senelik yazılım sektörü geçmişim var ve 2 yıl tek kart pc ( Raspberry Pi ) cihazlar ile ilgiliyim. TekKartPc.com sitesinde yaptığım ve yapmayı düşündüğüm çalışmaları yayınlıyorum. Motosiklet sever, Çay sever ve babayım :) Açık Kaynak teknolojileri önemsiyor ve kullanıyorum.",
         "tags": [
-            "Full Stack",
-            "Web"
+            "Software Architect"
         ],
         "badges": [
 
