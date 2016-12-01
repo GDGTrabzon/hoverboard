@@ -1,6 +1,6 @@
 [
     {
-        "title": "Festival Sponsor",
+        "title": "festival-partner",
         "logos": [
             {
                 "name": "Google",
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "title": "Gold Sponsor",
+        "title": "gold-partner",
         "logos": [
             {
                 "name": "JotForm",
@@ -25,7 +25,7 @@
         ]
     },
     {
-      "title": "Silver Sponsor",
+      "title": "silver-partner",
       "logos": [
         {
           "name": "BordoBT",
@@ -35,7 +35,7 @@
       ]
   },
   {
-    "title": "Bronze Sponsor",
+    "title": "bronze-partner",
     "logos": [
       {
         "name": "Unicrow",
