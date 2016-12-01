@@ -124,8 +124,8 @@
     "elements": [
       {
         "name": "conference-ticket",
-        "price": 0,
-        "currency": "₺",
+        "price": "",
+        "currency": "Ücretsiz",
         "starts": "conference-ticket-starts",
         "ends": "conference-ticket-ends",
         "soldOut": false
