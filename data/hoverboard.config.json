@@ -49,13 +49,6 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
-    },
-    "cod": {
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
     }
   },
   "navigation": [
@@ -77,7 +70,7 @@
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "https://goo.gl/mmnbzj",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
@@ -105,7 +98,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "#",
+          "url": "https://goo.gl/mmnbzj",
           "newTab": true
         }
       ]
@@ -129,23 +122,6 @@
         "starts": "conference-ticket-starts",
         "ends": "conference-ticket-ends",
         "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
-        "soldOut": true
       }
     ]
   },
@@ -161,8 +137,12 @@
       "caption": "days"
     },
     {
-      "counter": 8,
+      "counter": 5,
       "caption": "sessions"
+    },
+    {
+      "counter": 3,
+      "caption": "tracks"
     }
   ],
   "hashtag": "dftrb",

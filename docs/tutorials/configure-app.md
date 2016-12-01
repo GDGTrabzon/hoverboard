@@ -36,12 +36,12 @@ meta data in `index.html`
 ```
 <head>
   <meta name="description"
-        content="The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts">
+        content="The biggest Google tech conference in Trabzon carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
-  <meta name="author" content="GDG Lviv">
+  <meta name="author" content="GDG Trabzon">
 
-  <title>GDG DevFest Ukraine 2016</title>
+  <title>GDG DevFest Trabzon 2016</title>
   ...
 ```
 
@@ -127,7 +127,7 @@ This configs reflects in `toolbar-block.html` and `drawer-block.html`
 "tweetsSource": "/data/tweets.json",
 ```
 To make it more dynamic use [Tweetledee](http://chrissimpkins.github.io/tweetledee/)
-which provides ready-bake PHP files that allow you to access Twitter user 
+which provides ready-bake PHP files that allow you to access Twitter user
 timelines, user favorites, lists, home timelines, and tweet search data in a JSON.
 ```
 "tweetsSource": "https://<YOUR_APP>.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
