@@ -86,7 +86,7 @@
         "featured": true,
         "name": "Fatih Karatana",
         "title": "Cloud & Storage Operations Manager",
-        "company": "Labris Network",
+        "company": "Türksat",
         "companyLogo": "/images/logos/labris.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/fatih_karatana.jpg",
@@ -130,11 +130,11 @@
         "companyLogo": "/images/logos/bordo.png",
         "country": "Trabzon, Türkiye",
         "photoUrl": "/images/people/abdullah_dagli.jpg",
-        "shortBio": "...",
-        "bio": ".",
+        "shortBio": "14 yıldır kod geliştiriyor. Çok çeşitli platformlarda bugüne kadar çalıştı. Bir developer ya da girişimciden daha çok kendini ...",
+        "bio": "14 yıldır kod geliştiriyor. Çok çeşitli platformlarda bugüne kadar çalıştı. Bir developer ya da girişimciden daha çok kendini bir `hayalperest` olarak tanımlıyor. Heyacanlı, girişimci yönüyle ekipte sürekli hareket halinde olmasıyla biliniyor. 5 yıldır kurucusu ve ortağı olduğu startup için çalışıyor.",
         "tags": [
-            "Firebase",
-            "Full Stack",
+            "NodeJS",
+            "PHP",
             "Web"
         ],
         "badges": [
