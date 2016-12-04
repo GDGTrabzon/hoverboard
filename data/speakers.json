@@ -8,8 +8,8 @@
         "companyLogo": "/images/logos/ngx.jpg",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/halid_altuner.jpg",
-        "shortBio": "8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım ...",
-        "bio": "8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım. Genel olarak açık kaynak kodlu ve özgür yazılım projeleriyle ilgileniyorum. Bulut Hesaplama, Sanallaştırma, Dağıtık Dosya Sistemleri, Yazılım Tanımlı Ağ ve Depolama, Yük Dengeleme, Yüksek Trafik Alan Sistemler, Veritabanları üzerine aktif olarak çalışmaktayım. Kamu'da bir çok büyük projede Linux Sistem Yöneticiliği ve Takım Liderliği yaptım. Şu an Türkiye'nin ilk ve tek yerli veri depolama sistemleri üreticisi NGX Storage firmasında 'Bulut ve Depolama Operasyonları Yöneticisi' olarak devam etmekteyim.",
+        "shortBio": "Alaylı, sonradan mühendis, taze baba ve esasen işletmeciyim. 8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım ...",
+        "bio": "Alaylı, sonradan mühendis, taze baba ve esasen işletmeciyim. 8 senedir yazılım tarafında, son 5 senedir de sistem yöneticiliği tarafında çalışmaktayım. Genel olarak açık kaynak kodlu ve özgür yazılım projeleriyle ilgileniyorum. Bulut Hesaplama, Sanallaştırma, Dağıtık Dosya Sistemleri, Yazılım Tanımlı Ağ ve Depolama, Yük Dengeleme, Yüksek Trafik Alan Sistemler, Veritabanları üzerine aktif olarak çalışmaktayım. Kamu'da bir çok büyük projede Linux Sistem Yöneticiliği ve Takım Liderliği yaptım. Şu an Türkiye'nin ilk ve tek yerli veri depolama sistemleri üreticisi NGX Storage firmasında 'Bulut ve Depolama Operasyonları Yöneticisi' olarak devam etmekteyim.",
         "tags": [
             "System Administrator",
             "Cloud"
@@ -86,14 +86,15 @@
         "featured": true,
         "name": "Fatih Karatana",
         "title": "Cloud & Storage Operations Manager",
-        "company": "Türksat",
+        "company": "Labris Networks",
         "companyLogo": "/images/logos/labris.png",
         "country": "Ankara, Türkiye",
         "photoUrl": "/images/people/fatih_karatana.jpg",
         "shortBio": "Kafası kırık bilgisayarcı, 2003'ten beri bu işle boğuşuyor, 10 senedir bir şeyler geliştirip ...",
-        "bio": "Kafası kırık bilgisayarcı, 2003'ten beri bu işle boğuşuyor, 10 senedir bir şeyler geliştirip satıyor, sattırıyor, 'aldığım paraya değil, yaptığım projeye bakarım' diyor, Webci, mimar, mühendis, matematikçi, iş koçu. Biraz laz, biraz ankaralı, biraz da Kıbrıs'lı. Ha bir de kız babası!",
+        "bio": "Kafası kırık bilgisayarcı, 2003'ten beri bu işle boğuşuyor, 10 senedir bir şeyler geliştirip satıyor, sattırıyor, 'aldığım paraya değil, yaptığım projeye bakarım' diyor, Webci, mimar, mühendis, matematikçi, iş koçu. Biraz laz, biraz Ankaralı, biraz da Kıbrıs'lı. Ha bir de kız babası!",
         "tags": [
-            "Full Stack"
+            "Full Stack",
+            "System Architecture"
         ],
         "badges": [
 
