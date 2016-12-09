@@ -121,7 +121,7 @@
         "currency": "Ücretsiz",
         "starts": "conference-ticket-starts",
         "ends": "conference-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
@@ -137,7 +137,7 @@
       "caption": "days"
     },
     {
-      "counter": 5,
+      "counter": 6,
       "caption": "sessions"
     },
     {
