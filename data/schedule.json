@@ -1,1 +1,100 @@
-[]
+[{
+    "date": "11-12-2016",
+    "dateReadable": "11 Aralık",
+            "tracks": [
+                {
+                    "title": "Konferans Salonu"
+                },
+                {
+                    "title": "Workshop Alanı"
+                }
+            ],
+            "timeslots": [
+                {
+                    "startTime": "08:45",
+                    "endTime": "09:30",
+                    "sessions": [
+                        [131]
+                    ]
+                },
+                {
+                    "startTime": "10:15",
+                    "endTime": "10:30",
+                    "sessions": [
+                        [134]
+                    ]
+                },
+                {
+                    "startTime": "10:30",
+                    "endTime": "11:15",
+                    "sessions": [
+                        [130]
+                    ]
+                },
+                {
+                    "startTime": "11:15",
+                    "endTime": "11:30",
+                    "sessions": [
+                        [134]
+                    ]
+                },
+                {
+                    "startTime": "11:30",
+                    "endTime": "12:15",
+                    "sessions": [
+                        [129]
+                    ]
+                },
+                {
+                    "startTime": "12:15",
+                    "endTime": "13:30",
+                    "sessions": [
+                        [133]
+                    ]
+                },
+                {
+                    "startTime": "13:30",
+                    "endTime": "14:15",
+                    "sessions": [
+                        [128]
+                    ]
+                },
+                {
+                    "startTime": "14:15",
+                    "endTime": "14:30",
+                    "sessions": [
+                        [134]
+                    ]
+                },
+                {
+                    "startTime": "14:30",
+                    "endTime": "15:15",
+                    "sessions": [
+                        [127],
+                        [125]
+                    ]
+                },
+                {
+                    "startTime": "15:15",
+                    "endTime": "15:30",
+                    "sessions": [
+                        [134]
+                    ]
+                },
+                {
+                    "startTime": "15:30",
+                    "endTime": "16:30",
+                    "sessions": [
+                        [126],
+                        [124]
+                    ]
+                },
+                {
+                    "startTime": "16:30",
+                    "endTime": "16:45",
+                    "sessions": [
+                        [138]
+                    ]
+                }
+            ]
+}]

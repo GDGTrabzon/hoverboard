@@ -1,3 +1,130 @@
 {
-    
+    "138": {
+        "id": 138,
+        "title": "Kapanış Seramonisi",
+        "description": "Kapanış Seramonisi",
+        "image": "/images/backgrounds/closing.jpg"
+    },
+    "136": {
+        "id": 136,
+        "title": "GDG DevFest Trabzon 2016 Açılış",
+        "description": "DevFest Trabzon 2016 başlıyor!!",
+        "image": "/images/backgrounds/opening.jpg"
+    },
+    "135": {
+        "id": 135,
+        "title": "Kahvaltı",
+        "description": "Kahvaltı!",
+        "image": "/images/backgrounds/morning.jpg"
+    },
+    "134": {
+        "id": 134,
+        "title": "Çay Molası",
+        "description": "Çay Molası",
+        "image": "/images/backgrounds/coffee-break.jpg"
+    },
+    "133": {
+        "id": 133,
+        "title": "Öğlen Arası",
+        "description": "Öğlen Arası!",
+        "image": "/images/backgrounds/lunch.jpg"
+    },
+    "132": {
+        "id": 132,
+        "title": "Kayıt",
+        "description": "Kayıt olup insanlarala tanışmaya başlayın!!",
+        "image": "/images/backgrounds/registration.jpg"
+    },
+    "131": {
+        "id": 131,
+        "title": "Google Developer Technolojies in a Nutshell and PWA",
+        "description": "Mediterranean grown, raised on sunshine and good vibes, Current Google, ex Facebook, eBay engineer.",
+        "speakers": [
+            6
+        ],
+        "tags": [
+            "Web",
+            "Progressive Web Apps"
+        ]
+    },
+    "130": {
+    "id": 130,
+    "title": "Web Uygulamalarında Ölçeklendirme",
+    "description": "İnternet hayatımıza girdi gireli dur durak bilmeyen bir büyüme yaşıyoruz. Sosyal medya, kişisel web siteleri, bulut servisleri, kurumsal hizmetler ve sonunda IoT. Bu büyüme nereye varacak bilmiyoruz. Büyürken hala çalışabilir bir uygulamamız var mı? %99,9999 uptime olan bir uygulama geliştirmek çok mu zor? Yazılım geliştirmek ve geliştirilen yazılımı 1 milyon kişiye ölçeklendirebilmek ne kadar kolay? Bulut bu işin neresinde? C10K ve C100K ne ifade ediyor? Minimum maliyetlerle web uygulamanızı milyonlarca kişiye nasıl ölçeklendirebiliriz? T0 anından 1 milyon kişiye kadar neler yapmamız gerekiyor, birlikte görelim.",
+    "speakers": [
+      1
+    ],
+    "tags": [
+        "Cloud",
+        "System Administrator"
+    ]
+  },
+    "129": {
+        "id": 129,
+        "title": "Geleceğin İş Modeli SaaS ve Özgür Yazılım",
+        "description": "SaaS, günümüz ve geleceğin iş modelidir. İster bir girişimci olun, ister bir geliştirici, geleceğin bilişim dünyasında var olmak için SaaS ile yolunuz mutlaka kesişecektir. SaaS yapmak için ise en iyi çözümler Özgür Yazılım dünyasındadır. Özgür Yazılım ve SaaS için farkındalık oluşturacak bir konuyu ele alıyoruz",
+        "speakers": [
+            2
+        ],
+      "tags": [
+          "System Administrator",
+          "System Architecture"
+        ]
+    },
+    "128": {
+        "id": 128,
+        "title": "Sen Muhendissin Büyük Düşün !",
+        "description": "Sunumda biraz sektörden, biraz yazılım tasarımından bahsedeceğiz, yazılım projesi yönetiminden bahsedip, yazılım yaşam döngüsüne yön veren dinamikleri tartışacağız ama en çok bu işi neden yapıyoruz ve nasıl severiz ona kafa yoracağız.",
+        "speakers": [
+            3
+        ],
+        "tags": [
+            "Software Architect"
+        ]
+    },
+    "127": {
+        "id": 127,
+        "title": "NodeJS",
+        "description": "NodeJS dünyasında daha mı hızlı olmak istiyorsunuz ? O zaman Meteor ! NodeJS dünyasının nasıl bu kadar hızlı geliştiğinden ve diğer yapılar arasındaki farklardan bahsedeceğiz. Ardından, daha hızlı ürün geliştirmek için hangi yapıları kullanabileceğimize değineceğiz. Bunlar arasında en pratik ve kolay olan Meteor’a yukarıdan bir bakış atacağız.",
+        "speakers": [
+            4
+        ],
+        "tags": [
+            "Nodejs",
+            "Web"
+        ]
+    },
+    "126": {
+        "id": 126,
+        "title": "Raspberry Pi nedir ?  Nasıl bu kadar küçük olabiliyor - SOC nedir ?",
+        "description": "Normal bilgisayarlardan farkı - GPIO nedir ? Raspberry Pi - linux masaüstü ortamı tanıtımı. Raspberry Pi uzaktan veya çalışma ortamında bağlanma şekiller ( Usb TTL Uart, Vnc ile uzak masaüstü erişimi ) Gerçek hayatta ve ülkemizde nerelerde kullanılıyor? IOT ve big data bu işin neresinde ? Sosyal Mecralar : makezine, raspi magazine, hackaday.io, instructables.com ve hackster.io Raspberry Pi ile Radyo yayını, led yakmak ve akıllı priz uygulaması yapımı !",
+        "speakers": [
+            5
+        ],
+        "tags": [
+            "Software Architect"
+        ]
+    },
+    "125": {
+        "id": 125,
+        "title": "Linux-KVM Workshop",
+        "description": "",
+        "speakers": [
+            1
+        ],
+        "tags": [
+            "Linux"
+        ]
+    },
+    "124": {
+        "id": 124,
+        "title": "Meteor Workshop",
+        "description": "",
+        "speakers": [
+            4
+        ],
+        "tags": [
+            "Meteor"
+        ]
+    }
 }
